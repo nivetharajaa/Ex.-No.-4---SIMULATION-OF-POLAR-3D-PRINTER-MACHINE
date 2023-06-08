@@ -33,7 +33,7 @@
 
 
 ### Name:Nivetha A
-### Register Number:21222223010
+### Register Number:212222230101
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
